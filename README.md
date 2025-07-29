@@ -1,6 +1,6 @@
 # Internship-task-8
 ## Services Showcase - GitHub Repository Description
-# Project Overview
+# Overview
 This repository contains a responsive "Our Services" webpage that showcases various digital services with interactive cards. The design features a clean, modern interface with hover effects and is fully responsive across mobile, tablet, and desktop devices.
 
 ## Key Features
